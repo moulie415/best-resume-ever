@@ -7,7 +7,7 @@
     <div class="section-headline">
       {{ lang.contact }}
     </div>
-    <div v-if="person.birth" class="item">
+    <!-- <div v-if="person.birth" class="item">
       <div class="icon">
         <i class="material-icons">account_circle</i>
       </div>
@@ -16,9 +16,9 @@
           <li> {{ lang.born }} {{person.birth.year}} {{ lang.bornIn }} {{person.birth.location}}</li>
         </ul>
       </div>
-    </div>
+    </div> -->
 
-    <div class="item">
+    <!-- <div class="item">
       <div class="icon">
         <i class="material-icons">location_city</i>
       </div>
@@ -28,7 +28,7 @@
           <li>{{person.contact.city}}</li>
         </ul>
       </div>
-    </div>
+    </div> -->
 
     <a :href="contactLinks.phone">
       <div class="item">
@@ -64,7 +64,7 @@
       </div>
     </a>
 
-    <a v-if="person.contact.website" :href="person.contact.website" target="_blank">
+    <!-- <a v-if="person.contact.website" :href="person.contact.website" target="_blank">
       <div class="item">
         <div class="icon">
           <i class="material-icons">language</i>
@@ -73,7 +73,7 @@
           <span>{{person.contact.website}}</span>
         </div>
       </div>
-    </a>
+    </a> -->
 
     <div class="item">
       <div class="section-headline">

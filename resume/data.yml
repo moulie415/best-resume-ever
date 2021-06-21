@@ -3,7 +3,7 @@ name:
   first: Henry
   middle:
   last: Moule
-about: Outside of work you'll find me working on my own coding projects, playing guitar (inside and outside Church), going to the gym or browsing the internet for cute dogs. My main side projects in 2020 involved helping an overseas missionary develop a number of apps including a Bible verse of the day app called awal i wass (which roughly translates to word of God for each day) spoken in a language called Tashelhiyt. This app can be found on Google Play and the App Store and code for all the projects can be found here https://github.com/rd113267. My main side project at the moment involves working alongside and Personal trainer and osteopath to help develop an app called Health and Movement which is yet to be released but the code for which can be found here https://github.com/moulie415/HealthAndMovement.
+about: Outside of work you'll find me working on my own coding projects, playing guitar (inside and outside church), going to the gym or browsing the internet for cute dogs. My main side projects in 2020 involved helping an overseas missionary develop a number of apps including a Bible verse of the day app called awal i wass (which roughly translates to word of God for each day) spoken in a language called Tashelhiyt. This app can be found on Google Play and the App Store and code for all the projects can be found here https://github.com/rd113267. My main side project at the moment involves working alongside and Personal trainer and osteopath to help develop an app called Health and Movement which is yet to be released but the code for which can be found here https://github.com/moulie415/HealthAndMovement.
 
 # talk about side projects here?
 
@@ -23,7 +23,7 @@ experience:
 - company: Active Inspiration Technologies
   position: Software Developer
   timeperiod: January 2018 - November 2019
-  description: For Active Inspiration I primarily worked on Fuell React Native app however I worked across the stack developing the fuell backend using Node.js and the Parse Server platform. Active Inspiration also had multiple clients who I have developed various solutions for using technologies including React, Node.js, GraphQL and Next.js. 
+  description: For Active Inspiration I primarily worked on Fuell React Native app however I worked across the stack developing the Fuell backend using Node.js/Parse Server. Active Inspiration also had multiple clients who I have developed various solutions for using technologies including React, Node.js, GraphQL and Next.js. 
   website: https://fuell.io
 
 - company: DYRNAN Communications
@@ -47,7 +47,7 @@ experience:
 education:
 - degree: Bachelor of Science (B.Sc.) Computer Science at Oxford Brookes University
   timeperiod: 2013 - 2017
-  description: "4 year course (including a year in industry) that largely taught Java with a focus on object orientation but also included many more modules that covered Python, C/C++, JavaScript and C#. My course also involved a teaching module where I spent a week as a teaching assistant helping teach Python and Scratch at a secondary school. In my final year as part of my final year project I developed a maths game that is currently available on the Google Play Store: play.google.com/store/apps/details?id=com.mygdx.equationDragger"
+  description: "4 year course (including a year in industry) teaching Java with a focus on OOP but also included many more modules that covered Python, C/C++, JavaScript and C#. My course also involved a teaching module where I spent a week as a teaching assistant helping teach Python and Scratch at a secondary school. In my final year as part of my final year project I developed a maths game called Equation Dragger that is currently available on the Google Play Store."
 
   #website: https://example.com
 
@@ -105,26 +105,26 @@ skills:
 
 knowledge: Also have experience in working in multiple Agile environments including experience working with Jira, Asana and Hive.
 
-projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+# projects:
+# - name: best-resume-ever
+#   platform: Vue
+#   timeperiod: February 2016
+#   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+#   url: https://github.com/salomonelli/best-resume-ever
 
-hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
+# hobbies:
+# - name: Video Games
+#   iconClass: fa fa-gamepad
+#   url: https://example.com
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
+# - name: Drawing
+#   iconClass: fa fa-pencil
+#   url: https://example.com
 
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+# contributions:
+# - name: best-resume-ever
+#   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+#   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
   email: hen10@hotmail.co.uk
