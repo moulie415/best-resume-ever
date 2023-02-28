@@ -20,9 +20,14 @@ birth:
 # you may add more experiences by duplicating the template
 
 experience:
+- company: SALT
+  position: Full Stack Engineer
+  timeperiod: Since Aug 2021
+  description: At SALT I work across the MERN (Mongo, Express, React/React Native, Node.js) stack although with a focus on the frontend, primarily on the React Native mobile app but with extensive work developing the Node.js backend, internal admin panel (React) as well as completely rebuilding the website using Next.js.
+  website: https://be-salt.com
 - company: CarePlanner Ltd
   position: JavaScript Developer
-  timeperiod: Since November 2019
+  timeperiod: Nov 2019 - Aug 2021
   description: I am working on the newest iteration of the CarePlanner mobile app, which provides the appointment rostering functionality that enables carers to check in and out of appointments. The app uses React Native and consumes a GraphQL API, provided by AWS AppSync, which links it to the CarePlanner REST API.
   website: https://www.care-planner.co.uk/
 
