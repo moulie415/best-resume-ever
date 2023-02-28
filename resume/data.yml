@@ -1,4 +1,6 @@
 /* #*/ export const PERSON = `
+# Any fields left unchanged, please delete so your resume is fully yours!
+
 name:
   first: Henry
   middle:
@@ -12,6 +14,8 @@ position: Software Developer
 birth:
   year: 1995
   location: Bristol
+
+# you may add more experiences by duplicating the template
 
 experience:
 - company: CarePlanner Ltd
@@ -56,7 +60,7 @@ education:
   description: "A-levels: Mathematics (B), Music Technology (C), Religious Studies (C) GCSE’s: 10 GCSE’s including an A* in music and A grades in Maths, History, Biology, Chemistry, Physics and Religious Studies."
 
 
-# skill level goes 0 to 100
+# skill level goes from 0 to 100
 skills:
 - name: JavaScript
   level: 95
@@ -125,6 +129,7 @@ knowledge: I have also worked in multiple Agile environments, with experience wo
 # - name: best-resume-ever
 #   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
 #   url: https://github.com/salomonelli/best-resume-ever
+
 
 contact:
   email: hen10@hotmail.co.uk
