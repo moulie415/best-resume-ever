@@ -25,6 +25,7 @@ experience:
   timeperiod: Since Aug 2021
   description: I work for the dating app SALT, as one of two developers, across the MERN (Mongo, Express, React/React Native, Node.js) stack. My focus is on the frontend, primarily on the React Native mobile app, but I do extensive work developing the Node.js backend, internal admin panel (React) and am currently completely rebuilding the website using Next.js.
   website: https://be-salt.com
+  
 - company: CarePlanner Ltd
   position: JavaScript Developer
   timeperiod: Nov 2019 - Aug 2021
@@ -41,7 +42,6 @@ experience:
   position: Junior Software Developer
   timeperiod: July 2017 - December 2017
   description: At DYRNAN, I worked primarily on the frontend, using React Native to develop an encrypted messaging app called Secoti (formerly Dyrnan).
-  website: https://www.secoti.com/
 
 - company: Candour Creative
   position: Freelance Web Developer
