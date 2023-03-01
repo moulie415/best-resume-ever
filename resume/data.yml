@@ -92,6 +92,10 @@ skills:
 - name: GraphQL
   level: 85
 - name: Next.js
+  level: 86
+- name: C#
+  level: 82
+- name: Unity
   level: 80
 - name: PHP
   level: 75
@@ -120,33 +124,12 @@ skills:
 
 knowledge: I have also worked in multiple Agile environments, with experience working with Jira, Asana and Hive.
 
-# projects:
-# - name: best-resume-ever
-#   platform: Vue
-#   timeperiod: February 2016
-#   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-#   url: https://github.com/salomonelli/best-resume-ever
-
-# hobbies:
-# - name: Video Games
-#   iconClass: fa fa-gamepad
-#   url: https://example.com
-
-# - name: Drawing
-#   iconClass: fa fa-pencil
-#   url: https://example.com
-
-# contributions:
-# - name: best-resume-ever
-#   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-#   url: https://github.com/salomonelli/best-resume-ever
-
 
 contact:
   email: hen10@hotmail.co.uk
   phone: 07577635916
-  street: #Wells Road
-  city: Bath
+  street: Bristol
+  city: Bristol
   website: johndoe.com
   github: moulie415
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
