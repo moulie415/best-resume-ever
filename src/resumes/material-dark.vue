@@ -475,6 +475,7 @@ h4 {
     }
   }
   .item.last{ 
+    margin-bottom: 13px;
     .text {
       border-bottom-style:none;
       padding-bottom:0;
