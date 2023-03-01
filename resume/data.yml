@@ -6,8 +6,8 @@ name:
   middle:
   last: Moule
 about: Outside of work you'll find me working on various coding projects.
-  I am currently working with a Personal Trainer and Osteopath who commissioned me to develop a fitness/workout called Christian Antonee Health.
-  I'm also passionate about game development and I'm trying to learn to build games with the Unity engine and C#.
+  I am currently working with a Personal Trainer and Osteopath who commissioned me to develop a fitness/workout app called Christian Antonee Health.
+  I'm also passionate about game development and am teaching myself to build games with the Unity engine and C#.
 
 # talk about side projects here?
 
@@ -23,24 +23,24 @@ experience:
 - company: SALT
   position: Full Stack Engineer
   timeperiod: Since Aug 2021
-  description: At SALT I work across the MERN (Mongo, Express, React/React Native, Node.js) stack although with a focus on the frontend, primarily on the React Native mobile app but with extensive work developing the Node.js backend, internal admin panel (React) as well as completely rebuilding the website using Next.js.
+  description: I work for the dating app SALT, as one of two developers, across the MERN (Mongo, Express, React/React Native, Node.js) stack. My focus is on the frontend, primarily on the React Native mobile app, but I do extensive work developing the Node.js backend, internal admin panel (React) and am currently completely rebuilding the website using Next.js.
   website: https://be-salt.com
 - company: CarePlanner Ltd
   position: JavaScript Developer
   timeperiod: Nov 2019 - Aug 2021
-  description: I am working on the newest iteration of the CarePlanner mobile app, which provides the appointment rostering functionality that enables carers to check in and out of appointments. The app uses React Native and consumes a GraphQL API, provided by AWS AppSync, which links it to the CarePlanner REST API.
+  description: At Careplanner, I worked on the then newest iteration of the mobile app, which provides an appointment rostering functionality enabling carers to check in and out of appointments. The app uses React Native and consumes a GraphQL API, provided by AWS AppSync, which links it to the CarePlanner REST API.
   website: https://www.care-planner.co.uk/
 
 - company: Active Inspiration Technologies
   position: Software Developer
   timeperiod: January 2018 - November 2019
-  description: For Active Inspiration I primarily worked on the Fuell React Native app, however I also worked across the stack developing the Fuell backend using Node.js/Parse Server. Active Inspiration had many clients for whom I developed various solutions using technologies, including React, Node.js, GraphQL and Next.js. 
+  description: For Active Inspiration I primarily worked on the Fuell React Native app, however I also worked across the stack, developing the Fuell backend using Node.js/Parse Server. Active Inspiration had many clients for whom I developed various solutions, using technologies including React, Node.js, GraphQL and Next.js. 
   website: https://fuell.io
 
 - company: DYRNAN Communications
   position: Junior Software Developer
   timeperiod: July 2017 - December 2017
-  description: At DYRNAN I worked primarily on the frontend, using React Native to develop an encrypted messaging app called Secoti (formerly Dyrnan).
+  description: At DYRNAN, I worked primarily on the frontend, using React Native to develop an encrypted messaging app called Secoti (formerly Dyrnan).
   website: https://www.secoti.com/
 
 - company: Candour Creative
@@ -52,19 +52,19 @@ experience:
 - company: WebCurl Ltd
   position: Support Representative
   timeperiod: November 2014 - June 2016
-  description: For my year in industry at university I worked for WebCurl, a web development agency based in Oxford, where I helped develop websites using Drupal (PHP, MySQL, JavaScript, CSS).
+  description: For my year in industry during my Computer Science degree, I worked for WebCurl, a web development agency based in Oxford, where I helped develop websites using Drupal (PHP, MySQL, JavaScript, CSS).
   website: https://www.webcurl.co.uk/
 
 education:
 - degree: Bachelor of Science (B.Sc.) Computer Science at Oxford Brookes University
   timeperiod: 2013 - 2017
-  description: "A 4-year course (including a year in industry) covering Java with a focus on OOP and other modules, including Python, C/C++, JavaScript and C#. My course also involved a teaching module where I spent a week as a teaching assistant, helping to teach Python and Scratch at a secondary school. In my final year, as part of my final year project, I developed a maths game called Equation Dragger that is currently available on the Google Play Store."
+  description: "A 4-year course (including a year in industry) covering Java with a focus on OOP and other modules, including Python, C/C++, JavaScript and C#. My course also involved a teaching module, for which I spent a week as a teaching assistant, helping to teach Python and Scratch at a secondary school. In my final year, as part of my final year project, I developed a maths game called Equation Dragger, that is currently available on the Google Play Store."
 
   #website: https://example.com
 
 - degree: Queen Elizabeth's Hospital
   timeperiod: 2006 - 2013
-  description: "A-levels: Mathematics (B), Music Technology (C), Religious Studies (C) GCSE’s: 10 GCSE’s including an A* in music and A grades in Maths, History, Biology, Chemistry, Physics and Religious Studies."
+  description: "A-levels: Mathematics (B), Music Technology (C), Religious Studies (C) GCSEs: 10 GCSEs including an A* in music and A grades in Maths, History, Biology, Chemistry, Physics and Religious Studies."
 
 
 # skill level goes from 0 to 100
