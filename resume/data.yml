@@ -23,7 +23,7 @@ experience:
 - company: SALT
   position: Full Stack Engineer
   timeperiod: Since Aug 2021
-  description: I work for the dating app SALT, as one of two developers, across the MERN (Mongo, Express, React/React Native, Node.js) stack. My focus is on the frontend, primarily on the React Native mobile app, but I do extensive work developing the Node.js backend, internal admin panel (React) and am currently completely rebuilding the website using Next.js.
+  description: I work for the dating app SALT, as one of two developers, across the MERN (Mongo, Express, React/React Native, Node.js) stack. My focus is on the frontend, primarily on the React Native mobile app, but I do extensive work developing the Node.js backend, internal admin panel (React) and have completely rebuilt the website using Next.js which I also solely maintain and update .
   website: https://be-salt.com
   
 - company: CarePlanner Ltd
