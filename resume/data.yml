@@ -5,9 +5,10 @@ name:
   first: Henry
   middle:
   last: Moule
-about: Outside of work you'll find me working on various coding projects.
-  I am currently working with a Personal Trainer and Osteopath who commissioned me to develop a fitness/workout app called Christian Antonee Health.
-  I'm also passionate about game development and am teaching myself to build games with the Unity engine and C#.
+about:  "I am an experienced mobile app and full stack developer who has been working primarily with React Native since 2017. The app on which I am currently working has an install base of over 100k users. My colleagues have described me as efficient, dependable and willing to go the extra mile.
+Outside of work you'll find me working on various coding projects.
+  I am currently working with a Personal Trainer and Osteopath who commissioned me to develop a fitness/workout app.
+  I'm also passionate about game development and am teaching myself to build games with the Unity engine and C#."
 
 # talk about side projects here?
 
@@ -23,25 +24,25 @@ experience:
 - company: SALT
   position: Full Stack Engineer
   timeperiod: Since Aug 2021
-  description: I work for the dating app SALT, as one of two developers, across the MERN (Mongo, Express, React/React Native, Node.js) stack. My focus is on the frontend, primarily on the React Native mobile app, but I do extensive work developing the Node.js backend, internal admin panel (React) and have completely rebuilt the website using Next.js which I also solely maintain and update .
+  description: I work for the dating app SALT, as one of two developers, across the MERN (Mongo, Express, React/React Native, Node.js) stack. My focus is on the frontend, primarily on the React Native mobile app, but I do extensive work developing the Node.js backend, internal admin panel (React) and have completely rebuilt the website using Next.js, which I am also solely responsible for maintaining and keeping updated.
   website: https://be-salt.com
   
 - company: CarePlanner Ltd
   position: JavaScript Developer
   timeperiod: Nov 2019 - Aug 2021
-  description: At Careplanner, I worked on the then newest iteration of the mobile app, which provides an appointment rostering functionality enabling carers to check in and out of appointments. The app uses React Native and consumes a GraphQL API, provided by AWS AppSync, which links it to the CarePlanner REST API.
+  description: At Careplanner, I worked on the then newest iteration of the mobile app, which provided an appointment rostering functionality that enabled carers to check in and out of appointments. The app uses React Native and consumes a GraphQL API, provided by AWS AppSync, which links it to the CarePlanner REST API.
   website: https://www.care-planner.co.uk/
 
 - company: Active Inspiration Technologies
   position: Software Developer
   timeperiod: January 2018 - November 2019
-  description: For Active Inspiration I primarily worked on the Fuell React Native app, however I also worked across the stack, developing the Fuell backend using Node.js/Parse Server. Active Inspiration had many clients for whom I developed various solutions, using technologies including React, Node.js, GraphQL and Next.js. 
+  description: For Active Inspiration, I worked on the Fuell React Native app, however I also worked across the stack, developing the Fuell backend using Node.js/Parse Server. Active Inspiration had many clients for whom I developed various solutions, using technologies including React, Node.js, GraphQL and Next.js. 
   website: https://fuell.io
 
 - company: DYRNAN Communications
   position: Junior Software Developer
   timeperiod: July 2017 - December 2017
-  description: At DYRNAN, I worked primarily on the frontend, using React Native to develop an encrypted messaging app called Secoti (formerly Dyrnan).
+  description: At DYRNAN, I worked mostly on the frontend, using React Native to develop an encrypted messaging app called Secoti (formerly Dyrnan).
 
 - company: Candour Creative
   position: Freelance Web Developer
@@ -64,7 +65,7 @@ education:
 
 - degree: Queen Elizabeth's Hospital
   timeperiod: 2006 - 2013
-  description: "A-levels: Mathematics (B), Music Technology (C), Religious Studies (C) GCSEs: 10 GCSEs including an A* in music and A grades in Maths, History, Biology, Chemistry, Physics and Religious Studies."
+  description: "A-levels: Mathematics (B), Music Technology (C), Religious Studies (C), GCSEs: 10 GCSEs including an A* in music and A grades in Maths, History, Biology, Chemistry, Physics and Religious Studies."
 
 
 # skill level goes from 0 to 100
