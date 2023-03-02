@@ -293,6 +293,7 @@ h4 {
   .about {
     display: block;
     margin-top:8px !important;
+    margin-right: 8px !important;
     font-weight:375;
     font-size: 16px;
     color:rgba(0,0,0,0.541176);
