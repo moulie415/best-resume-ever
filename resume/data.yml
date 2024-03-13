@@ -5,10 +5,10 @@ name:
   first: Henry
   middle:
   last: Moule
-about:  "I am an experienced full stack developer who has been working primarily with React/React Native on the frontend since 2017 and Node.js on the backend since 2018. The app on which I am currently working has an install base of over 100k users. My colleagues have described me as efficient, dependable and willing to go the extra mile.
+about:  "I am an experienced full stack developer who has been working primarily with React/React Native on the frontend since 2017 and Node.js on the backend since 2018. My colleagues have described me as efficient, dependable and willing to go the extra mile.
 Outside of work you'll find me working on various coding projects.
   I am currently working with a Personal Trainer and Osteopath who commissioned me to develop a fitness/workout app.
-  I'm also passionate about game development and am teaching myself to build games with the Unity engine and C#."
+  I also love playing the guitar and enjoy helping out with the worship team at my local Church which I attend every sunday."
 
 # talk about side projects here?
 
@@ -21,9 +21,15 @@ birth:
 # you may add more experiences by duplicating the template
 
 experience:
+- company: Zenobē
+  position: Software Engineer 
+  timeperiod: Since October 2023
+  description: I've made significant contributions across various projects during my time at Zenobē. On the Grid services optimization front, I've demonstrated expertise in technologies like Next.js, Node.js, and DynamoDB. Meanwhile, in the Electric Vehicle sector, I've leveraged Angular, NestJS, and PostgreSQL. Additionally, I've worked with Infrastructure as Code (IAC) practices utilizing Terraform and CDK.
+  website: https://www.zenobe.com/
+
 - company: SALT
   position: Full Stack Engineer
-  timeperiod: Since Aug 2021
+  timeperiod: Aug 2021 - Oct 2023
   description: I work for the dating app SALT, as one of two developers, across the MERN (Mongo, Express, React/React Native, Node.js) stack. My focus is on the frontend, primarily on the React Native mobile app, but I do extensive work developing the Node.js backend, internal admin panel (React) and have completely rebuilt the website using Next.js, which I am also solely responsible for maintaining and keeping updated.
   website: https://be-salt.com
   
@@ -102,6 +108,8 @@ skills:
   level: 80
 - name: PHP
   level: 75
+- name: PostgreSQL
+  level: 78
 - name: MySQL
   level: 75
 - name: AWS
@@ -122,6 +130,10 @@ skills:
   level: 75
 - name: Python
   level: 75
+- name: Angular
+  level: 70
+- name: NestJS
+  level: 70
 
 knowledge: I have also worked in multiple Agile environments, with experience working with Jira, Asana and Hive.
 
